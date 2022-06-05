@@ -72,7 +72,7 @@ caso você queira ler valores do tipo <code>float</code>(números quebrados) voc
 float numero = float.Parse(Console.ReadLine());
 ```
  
-<h2>4.Codicionais<h2>
+<h2>4.Condicionais<h2>
   
 <h3>IF</h3>
 caso oque você declarar entre parentes seja verdadeiro, ele executa.
