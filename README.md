@@ -14,3 +14,15 @@ This is a repository about my C# studies. Here I will store the exercises of my 
 Esse é um repositório para salvar meus estudos em C#. Aqui eu vou guardar todos os exercícios que eu fizer no curso tecnico em Jogos Digitais(SENAI) e também codigos extras.
 </p>
 </b>
+
+<br>
+<h1>Área de Aprendizado<h1>
+<h2>Bases da Linguagem - Parte 1</h2>
+  
+- Declarando Variáveis - string, int, float   
+- Escrever Algo na Tela - Console.WriteLine
+- Ler Algo - Console.ReadLine
+- Condicionais - if, else if, else
+
+[clique aqui](https://github.com/gr4yt3x/C-Sharp-programming/blob/main/Bases-da-linguagem-1.md)
+
