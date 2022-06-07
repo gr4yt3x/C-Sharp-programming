@@ -16,7 +16,7 @@ Esse é um repositório para salvar meus estudos em C#. Aqui eu vou guardar todo
 </b>
 
 <br>
-<h1>Área de Aprendizado<h1>
+<h1>- Área de Aprendizado -<h1>
 <h2>Bases da Linguagem - Parte 1</h2>
   
 - Declarando Variáveis - string, int, float   
@@ -25,4 +25,21 @@ Esse é um repositório para salvar meus estudos em C#. Aqui eu vou guardar todo
 - Condicionais - if, else if, else
 
 [clique aqui](https://github.com/gr4yt3x/C-Sharp-programming/blob/main/Bases-da-linguagem-1.md)
+
+<h2>Bases da Linguagem - Parte 2</h2>
+
+- Laços de Repetição - While, For
+  
+[clique aqui](https://github.com/gr4yt3x/C-Sharp-programming/blob/main/Bases-da-linguagem-2.md)
+  
+  
+<h1>- Compiladores Online -</h2>
+
+Para mais praticidade vou deixar os links de alguns compiladores online que podem ser usados para testar seus códigos C# em qualquer lugar:
+
+[Programiz C# Compiler](https://www.programiz.com/csharp-programming/online-compiler)
+  
+[.NetFiddle](https://dotnetfiddle.net/)
+  
+
 
